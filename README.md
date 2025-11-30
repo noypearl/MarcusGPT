@@ -1,4 +1,4 @@
-# MarcusGPT – VRChat Worm Energy Edition
+# MarcusGPT - Turning LLaMA Into Slightly Irritated Persona 
 
 A full-stack AI chatbot powered by a fine-tuned LLaMA 3.2 3B model trained on Marcus quotes from VRChat.
 
