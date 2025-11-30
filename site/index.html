@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>MarcusGPT – VRChat Edition</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="warm-light"></div>
+  <div class="scanlines"></div>
+  <div class="grid-bg"></div>
+
+  <div class="app-frame">
+
+    <div class="header">
+      <div class="logo">
+        MarcusGPT
+        <span>// VRCHAT WORM ENERGY</span>
+      </div>
+      <div class="status">
+        <div class="dot"></div>
+        Connected to Marcus Node
+      </div>
+    </div>
+
+    <div class="main">
+
+      <section class="chat-section">
+        <div id="chatLog" class="chat-log">
+          <div style="opacity:0.5; text-align:center; margin-top:40px;">
+            Say something to Marcus.<br>
+          </div>
+        </div>
+
+        <form id="chatForm" class="chat-input-bar">
+          <input id="chatInput" class="chat-input" placeholder="Ask Marcus something cursed..." maxlength="512" />
+          <button class="send-btn" type="submit">SEND</button>
+        </form>
+      </section>
+
+      <aside class="marcus-panel">
+        <div class="marcus-box">
+          <img class="marcus-img" src="avatar.webp" alt="Marcus Avatar" />
+        </div>
+
+        <div class="marcus-title">MARCUS // SIMULATION AVATAR</div>
+      </aside>
+
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
