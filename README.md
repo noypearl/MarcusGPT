@@ -2,6 +2,8 @@
 
 A full-stack AI chatbot powered by a fine-tuned LLaMA 3.2 3B model trained on Marcus quotes from VRChat.
 
+<img width="1400" height="729" alt="image" src="https://github.com/user-attachments/assets/d6de5796-3b41-4b6d-96ed-0df6167669ee" />
+
 ## 🎮 Features
 
 - Fine-tuned LLaMA model with LoRA adapters
